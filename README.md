@@ -32,6 +32,8 @@
 * A Chrome extension
 * An Android app (using [Bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap))
 * Rails apps
+
+### 📖 Some other things about me:
     
 - 🔭 **I’m currently working on**: finding a new position ([get in touch!](https://joshcollinsworth.com/contact))
 - 🌱 **I’m currently learning**: more about TypeScript and React
