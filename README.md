@@ -9,13 +9,14 @@
   * React
   * Svelte
   * jQuery
+  * Knockout
   * ES6+
 * **CSS**
   * Responsive design
   * Sass
   * Web animation and transitions
 * **HTML**
-  * Semantic, accessibl, inclusive HTML5
+  * Semantic, accessible, inclusive HTML5
   * Templating (HAML, Twig, etc.)
   * SVG
 * **PHP**
@@ -35,7 +36,7 @@
 
 ### 📖 Some other things about me:
     
-- 🔭 **I’m currently working on**: finding a new position ([get in touch!](https://joshcollinsworth.com/contact))
+- 🔭 **I’m currently working on**: expanding my TypeScript skills
 - 🌱 **I’m currently learning**: more about TypeScript and React
 - 💬 **Ask me about**: Vue, CSS, WordPress, responsive design…really, anything I might be able to answer. I love to help.
 - 📫 **How to reach me:**: [Contact me here](https://joshcollinsworth.com/contact) or at the email address in [my profile](https://github.com/josh-collinsworth).
