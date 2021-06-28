@@ -33,6 +33,7 @@
 * A Chrome extension
 * An Android app (using [Bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap))
 * Rails apps
+* All of the (mostly abandoned) repos you see here, plus a bunch of stuff on [CodePen](https://codepen.io/collinsworth)
 
 ### 📖 Some other things about me:
     
