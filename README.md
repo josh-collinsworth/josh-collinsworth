@@ -5,8 +5,8 @@
 ### 🖥️ My top tech skills:
 
 * **JavaScript**
-  * Vue
   * Svelte
+  * Vue
   * React
   * jQuery
   * Knockout
