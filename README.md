@@ -8,9 +8,9 @@
   * Svelte
   * Vue
   * React
+  * ES6+
   * jQuery
   * Knockout
-  * ES6+
 * **CSS**
   * Responsive design
   * Sass
@@ -25,9 +25,9 @@
 
 ### 🔨 Stuff I've built includes:
 * Numerous (progressive) web apps
-* Dozens of websites
+* Online games (like [Quina](https://quina.app) and [Hondo](https://playhondo.com))
+* Dozens of responsive, accessible websites
 * WordPress themes and plugins
-* Online games
 * Tech trainings and courses
 * Documentation, both internal and public
 * A Chrome extension
@@ -37,8 +37,6 @@
 
 ### 📖 Some other things about me:
     
-- 🔭 **I’m currently working on**: expanding my TypeScript skills
-- 🌱 **I’m currently learning**: more about TypeScript, SvelteKit, web components, and React
 - 💬 **Ask me about**: Svelte, Vue, CSS, WordPress, responsive design…really, anything I might be able to answer. I love to help.
 - 📫 **How to reach me:**: [Contact me here](https://joshcollinsworth.com/contact) or at the email address in [my profile](https://github.com/josh-collinsworth).
 - 😄 **Pronouns:**: He/him/his
