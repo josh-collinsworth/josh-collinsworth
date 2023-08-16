@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Josh Collinsworth.
 
-**I'm a front-end developer.**
+**I'm a front-end developer**, currently at Deno (previously: Shopify).
 
 ### 🖥️ My top tech skills:
 
