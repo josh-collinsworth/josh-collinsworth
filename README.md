@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Josh Collinsworth.
 
-I'm a frontend developer and design engineer at [Deno](https://deno.com), where my work spans code, design systems, brand, and communications. (Previously, I worked for [Shopify](https://shopify.com), as a senior frontend engineer focused on Point of Sale marketing; and for [WP Engine](https://wpengine.com), [Flywheel](https://getflywheel.com), and [Aware 3/FACTS](https://factsmgt.com/intelligence/financial/) working as a frontend product engineer.)
+I'm a design engineer, frontend developer, designer, and instructor.
 
-I like building things on the side, too: I've shipped the word games [Quina](https://quina.app) and [Hondo](https://playhondo.com) to iOS, Android, and the web, and I make things on [CodePen](https://codepen.io/collinsworth) when the mood strikes.
+I currently work at [Cloudflare](https://cloudflare.com) as a design engineer. Previously, I've worked for [Deno](https://deno.com), [Shopify](https://shopify.com), [WP Engine](https://wpengine.com), [Flywheel](https://getflywheel.com), and [Aware 3/FACTS](https://factsmgt.com/intelligence/financial/).
 
-I write about dev and design — here, and occasionally for places like [CSS Tricks](https://css-tricks.com/author/joshcollinsworth/) and [LogRocket](https://blog.logrocket.com/author/joshcollinsworth/).
+As a hobby, I build games, like [Tupo](https://playtupo.com), a daily two-layer Sudoku-style puzzle; and the word games [Quina](https://quina.app) and [Hondo](https://playhondo.com). I make things on [CodePen](https://codepen.io/collinsworth) when the mood strikes.
 
 More about me at [joshcollinsworth.com](https://joshcollinsworth.com).
